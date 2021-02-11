@@ -15,8 +15,8 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
+  min-height: 10vh;
+  display: flex; 
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -24,6 +24,29 @@
   color: white;
 }
 
+.App-footer {
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.App-body-place {
+  background-color: wheat;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.App-body-place-image {
+  margin-top: 10px;
+}
+.App-body-place-text {
+  background-color: white;
+  margin-bottom: 30px;
+  /* padding-left: 100px;
+  padding-right: 100px; */
+  
+}
 .App-link {
   color: #61dafb;
 }
