@@ -14,7 +14,7 @@ function App() {
           place= 'Mantova'
           country= 'Italy'
           image= 'https://pbs.twimg.com/media/D5oj-ceW0AAQi0Q.jpg'
-          // image_description= 'affresco stanza amore e psiche'
+          image_description= 'affresco stanza amore e psiche'
           location = 'https://goo.gl/maps/7JCbyEnykrthXnij9'
           bio = "A palace built by the duke d'Este for his lover Isabella."
         />
@@ -24,7 +24,7 @@ function App() {
           place = 'Firenze'
           country= 'Italy'
           image= 'https://cultura.ilfilo.net/wp-content/uploads/2019/08/Colosso-dellAppennino-opera-del-Giambologna-1024x682.jpg'
-          // image_description= "scultura grottesca dell'Appennino a Pratolino"
+          image_description= "scultura grottesca dell'Appennino a Pratolino"
           location = 'https://goo.gl/maps/1KEngPncVbkmhx2CA'
           bio = 'A sculpture in grotesque style depicting the Appenine mountains'
         />
